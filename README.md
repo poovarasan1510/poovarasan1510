@@ -16,7 +16,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech in Information Technology @ Nandha Engineering College (2022–2026) – CGPA: **7.5**
-- 💻 Full Stack Developer (MERN) | Certified from Nurture Infotech
+- 💻 Full Stack Developer (MERN) 
 - ☕ JAVA Full Stack Internship @ Firechip (ISO Certified)
 - 🌱 Currently learning TypeScript & improving API integrations
 - 📍 Erode, Tamil Nadu, India
