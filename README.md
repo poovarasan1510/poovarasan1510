@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=DATA+ANALYST%7cSQL+EXCEL+POWER BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=DATA+ANALYST%7CSQL+EXCEL+POWER BI" alt="Typing SVG" />
 </p>
 
 ---
