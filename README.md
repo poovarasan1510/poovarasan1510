@@ -187,6 +187,31 @@ This development background helps me understand applications, databases and busi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
 </div>
 
+## 📊 Skills
+
+### 📈 Data Analytics
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi" />
+</p>
+
+### 🐍 Python & Data Analysis
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 📊 Data Visualization
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi" />
+</p>
 ---
 
 ## 📊 GitHub Stats
