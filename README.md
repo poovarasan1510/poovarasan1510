@@ -15,32 +15,143 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in Information Technology @ Nandha Engineering College (2022–2026) – CGPA: **7.5**
-- 💻 Full Stack Developer (MERN) 
-- ☕ JAVA Full Stack Internship @ Firechip (ISO Certified)
-- 🌱 Currently learning TypeScript & improving API integrations
-- 📍 Erode, Tamil Nadu, India
-- 📫 Email: `poovanandhu831@gmail.com`
-- 📞 Phone: `+91 6374588870`
-- 💬 Languages: English, Tamil, Urdu, Hindi
+# Hi, I'm Poovarsan EM 👋📊
+
+### Data Analyst | SQL | Python | Excel | Power BI
 
 ---
 
-## 🚀 Projects
+## 👨‍💻 About Me
 
-### 📦 E-Commerce Web App (MERN Stack)
-A full-featured shopping site with authentication, cart, and order management.  
-🔹 React.js UI | 🔹 Node.js/Express.js APIs | 🔹 MongoDB | 🔹 Responsive Design
-
-### 💰 Expense Tracker (HTML/CSS/JS & MySQL)
-A budget-friendly tool with login, local storage, and MySQL database for CRUD operations.  
-🔹 HTML/CSS/JavaScript | 🔹 MySQL | 🔹 Clean UX
-
-### 🍽 Restaurant Ordering System (MERN Stack)
-Dynamic food ordering with admin dashboard and real-time updates.  
-🔹 React UI | 🔹 MongoDB | 🔹 Node/Express backend
+- 🎓 B.Tech in Information Technology
+- 📊 Aspiring Data Analyst
+- 🐍 Learning and working with Python for Data Analysis
+- 🗄️ Skilled in SQL and database querying
+- 📈 Creating interactive dashboards using Power BI
+- 📑 Working with Excel for data cleaning and analysis
+- 🔍 Interested in Data Cleaning, Data Visualization & Business Insights
+- 🌱 Currently improving my Data Analytics skills
+- 📍 Tamil Nadu, India
 
 ---
+
+## 🛠️ Skills
+
+### 📊 Data Analytics
+- SQL
+- Python
+- Excel
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+### 🐍 Python
+- Pandas
+- NumPy
+- Matplotlib
+
+### 🗄️ SQL
+- SELECT
+- WHERE
+- GROUP BY
+- HAVING
+- JOINs
+- Subqueries
+- CTEs
+- Window Functions
+- Aggregate Functions
+
+### 📑 Excel
+- VLOOKUP / XLOOKUP
+- INDEX & MATCH
+- IF / IFERROR
+- Pivot Tables
+- Charts
+- Data Validation
+- Conditional Formatting
+- Power Query
+- Data Cleaning
+
+### 📈 Power BI
+- Power Query
+- Data Cleaning
+- Data Modeling
+- DAX
+- Interactive Dashboards
+- Data Visualization
+
+---
+
+## 🚀 Data Analytics Projects
+
+### 📊 Sales Data Analysis
+- Analyzed sales data to identify revenue trends and top-performing products.
+- Cleaned and transformed raw data using Python and Excel.
+- Created visualizations and dashboards to understand business performance.
+
+**Tools:** Python | Pandas | Excel | Power BI | SQL
+
+---
+
+### 🛒 E-Commerce Data Analysis
+- Analyzed customer, product and sales data.
+- Used SQL queries to extract meaningful business insights.
+- Created dashboards to visualize sales and customer trends.
+
+**Tools:** SQL | Excel | Power BI | Python
+
+---
+
+### 📈 Excel Sales Dashboard
+- Cleaned raw sales data using Excel.
+- Created Pivot Tables, charts and interactive reports.
+- Analyzed revenue, products and regional performance.
+
+**Tools:** Microsoft Excel | Power Query | Pivot Tables
+
+---
+
+## 💻 Previous Development Experience
+
+### 🌐 MERN Stack Projects
+
+I also have a background in Full Stack Development and have worked with:
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- HTML
+- CSS
+- JavaScript
+
+This development background helps me understand applications, databases and business data from a technical perspective.
+
+---
+
+## 📚 Currently Learning
+
+- 📊 Advanced SQL
+- 🐍 Python for Data Analysis
+- 📈 Power BI
+- 📑 Advanced Excel
+- 🧮 DAX
+- 📊 Data Visualization
+- 📈 Business & Data Analytics
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- 📧 Email: YOUR_EMAIL
+
+---
+
+### 🎯 Career Goal
+
+> Aspiring Data Analyst passionate about transforming raw data into meaningful insights using SQL, Python, Excel and Power BI.
 
 ## 🧠 Tech Stack & Skills
 
